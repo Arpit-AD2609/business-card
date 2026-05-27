@@ -1,2 +1,16 @@
-Stared out Frontend developing. This is one of the basic projects I did by creating my own business card based on what I have learned.
-This repository contains 3 files. The HTML file create and contains the body while the CSS file stylizes it and visualises it better.
+# Business Card Project
+
+A simple frontend project built using HTML and CSS.
+
+This project is a personal business card webpage created to practice:
+- HTML structure
+- CSS styling
+- Flexbox layout
+- Basic frontend design principles
+
+## Technologies Used
+- HTML
+- CSS
+
+## LIVE DEMO
+[Click Here to View Project](https://resplendent-malasada-66e7ee.netlify.app)
